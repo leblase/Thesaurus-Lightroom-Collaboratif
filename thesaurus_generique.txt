@@ -303,6 +303,9 @@
 			Animal
 			Animaux juste éclos
 			Aube
+			Brins
+			Brouillard
+			Brume
 			Camouflage
 			Charognard
 			Chien (ou Canis familiaris)
@@ -328,6 +331,7 @@
 			Monde naturel
 			Muer
 			Neige
+			Oiseaux
 			Panda géant (ou Ailuropoda
 			Panoramique
 			Parade nuptiale
@@ -335,13 +339,18 @@
 			Paysage
 			Paysages marins
 			Plein air
+			Pluie
 			Prédateur
+			Rapace
+			Reptile
+			Rongeur
 			Savane
 			Scène sous-marine
 			Scènes avec ciel
 			Se blottir
 			Silhouette
 			Solitude
+			Steppe
 			Vue en orbite basse
 		Non-conformité
 		Nostalgie
